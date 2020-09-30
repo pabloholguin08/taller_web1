@@ -1,0 +1,9 @@
+.body{
+    font-family:Western ;
+    font-style: italic;
+    font-weight: bold;
+}
+.logo{
+    display: block;
+    margin: auto;
+}
